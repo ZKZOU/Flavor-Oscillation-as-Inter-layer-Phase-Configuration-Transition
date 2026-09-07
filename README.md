@@ -5,6 +5,10 @@
 
 ---
 
+Section11, Zou,  Z. K. (2025). Time-Entropy Mapping; Mass-Gravity Duality; Metric-Frequency Mirroring—A Two-Layer Fiber Bundle Model with Topologically Invariant Space Configuration. Preprints. https://doi.org/10.20944/preprints202505.0270.v10
+
+
+
 ## 1. Introduction
 
 Based on the MITC (Multiplicative-Entropy-Driven Two-Layer Topologically Invariant Fixed-Chirality Substrate Space Model) proposed by ZOU 2025, this paper attempts to provide an intuitive physical perspective on the long-standing problem of flavor oscillation.
